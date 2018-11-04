@@ -15,5 +15,4 @@ def rdexcel():
     wb.create_sheet('test', 0)
     wb.save('test.xlsx')
 
-
 rdexcel()
